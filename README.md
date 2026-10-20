@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="URL_PHOTO_DE_PROFIL" alt="Hugo Beltrame" width="180">
-</p>
+
 
 <h1 align="center">Salut, moi c'est Hugo Beltrame 👋</h1>
 
